@@ -7,7 +7,7 @@ https://github.com/robotarium/robotarium_python_simulator
 
 To submit a job in order to run the simulation based experiment on real robots, head to 
 https://robotarium.gatech.edu
-NOTE: Anyone can run as many jobs (within reason) as they need free of cost.
+NOTE: Anyone can run as many jobs (within reason) as they are free of cost.
 
 Submit the same py file as found in this repository to reproduce a minimalist version used to collect some data for the paper:
 "Engineering Social Learning Mechanisms in Multi Agent Robots"

@@ -12,7 +12,7 @@ NOTE: Anyone can run as many jobs (within reason) as they are free of cost.
 Submit the same py file as found in this repository to reproduce a minimalist version used to collect some data for the paper:
 "Engineering Social Learning Mechanisms in Multi Agent Robots"
 
-##Citation
+## Citation
 If you utilize this code for your research work, please cite the paper as follows:
 @INPROCEEDINGS{9344158,
   author={O. {Hamid} and K. {Dautenhahn} and C. L. {Nehaniv}},

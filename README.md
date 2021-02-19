@@ -17,11 +17,19 @@ If you utilize this code for your research work, please cite the paper as follow
 
 
 @INPROCEEDINGS{9344158,
+
   author={O. {Hamid} and K. {Dautenhahn} and C. L. {Nehaniv}},
+  
   booktitle={2020 3rd International Conference on Control and Robots (ICCR)}, 
+  
   title={Engineering Social Learning Mechanisms for Minimalistic Multi-agent Robots}, 
+  
   year={2020},
+  
   volume={},
+  
   number={},
+  
   pages={90-99},
+  
   doi={10.1109/ICCR51572.2020.9344158}}

@@ -11,3 +11,15 @@ NOTE: Anyone can run as many jobs (within reason) as they are free of cost.
 
 Submit the same py file as found in this repository to reproduce a minimalist version used to collect some data for the paper:
 "Engineering Social Learning Mechanisms in Multi Agent Robots"
+
+##Citation
+If you utilize this code for your research work, please cite the paper as follows:
+@INPROCEEDINGS{9344158,
+  author={O. {Hamid} and K. {Dautenhahn} and C. L. {Nehaniv}},
+  booktitle={2020 3rd International Conference on Control and Robots (ICCR)}, 
+  title={Engineering Social Learning Mechanisms for Minimalistic Multi-agent Robots}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={90-99},
+  doi={10.1109/ICCR51572.2020.9344158}}

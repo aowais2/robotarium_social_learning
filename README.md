@@ -14,6 +14,8 @@ Submit the same py file as found in this repository to reproduce a minimalist ve
 
 ## Citation
 If you utilize this code for your research work, please cite the paper as follows:
+
+
 @INPROCEEDINGS{9344158,
   author={O. {Hamid} and K. {Dautenhahn} and C. L. {Nehaniv}},
   booktitle={2020 3rd International Conference on Control and Robots (ICCR)}, 

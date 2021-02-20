@@ -12,6 +12,8 @@ NOTE: Anyone can run as many jobs (within reason) as they are free of cost.
 Submit the same py file as found in this repository to reproduce a minimalist version used to collect some data for the paper:
 "Engineering Social Learning Mechanisms in Multi Agent Robots"
 
+'expt1.1.py' performs 'asocial' exploration, i.e. each robot collects rewards by and for itself. 
+
 ## Citation
 If you utilize this code for your research work, please cite the paper as follows:
 
